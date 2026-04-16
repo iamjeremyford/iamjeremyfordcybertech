@@ -9,6 +9,23 @@
   - [Nmap-Network-Scanning-Lab](https:)
 
  <h2> 📜 Certifications</h2>
+ 
+### 🛡️ Cybersecurity
+- 🛡️ [CompTIA Security+](https://www.credly.com/badges/9fd18a06-a170-4be4-93c8-0b9e480cf0be/public_url)
+- 🛡️ [CompTIA CySA+ (Cybersecurity Analyst)]( https://www.credly.com/badges/7e4f6dcb-f184-4e27-bc45-dbf63a53ef9e/public_url)
+- 🛡️ [CompTIA CSAP (Security Analytics Professional)]( https://www.credly.com/badges/9535fcd1-c387-49e0-a8ca-ba983c42dc24/public_url)
+
+### 🌐 Networking & Infrastructure
+- 🌐 [CompTIA Network+](https://www.credly.com/badges/bc559447-ee02-49d0-8ea3-170e2db90b69/public_url)
+- 🏢 [CompTIA CIOS (IT Operations Specialist)]( https://www.credly.com/badges/68191cfe-322e-43e2-a88c-b5e160480213/public_url)
+- 🏗️ [CompTIA CSIS (Secure Infrastructure Specialist)]( https://www.credly.com/badges/fc57b272-b767-42fd-a65e-6b8ae93ff4fb/public_url)
+
+### 💻 IT Fundamentals & Systems
+- 💻 [CompTIA A+](https://www.credly.com/badges/33b6e96c-0001-4efc-b172-668f1de0afce/public_url)
+- 🐧 [Linux Essentials](PASTE-LINK-HERE)
+
+### 📊 IT Service Management
+- 📊 [ITIL 4 Foundation](PASTE-LINK-HERE)
 
 
 <h2>📺 Popular YouTube Videos</h2>
